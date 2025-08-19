@@ -1,0 +1,26 @@
+HOW TO USE THIS SIMULATOR
+
+--- The Game Board ---
+If you want to use a game board (and even if you don't), you must save it as "map.png".
+
+The radio buttons across the top give some options for kinds of tokens that can be placed or removed. Select the kind of token you want to add and click the gameboard to place it. Select "del marker" and click a token to remove it.
+
+--- The decks  ---
+
+Each deck must be represented by a tab in the "decks.xlsx" spreadsheet. 
+
+You can have as many decks as you want. (Each will get a button to draw from it)
+
+When running the program, if you check "exhaust decks", then moving cards from one deck to another via "add to player deck", will take the drawn card out of the source deck and put it into the target deck, reducing the size of the source deck. The source deck will be yellow.
+
+--- The dice ---
+
+Just enter the numbers you want to roll and press "roll". It will roll 3 sets of dice.
+
+--- Scratch areas ---
+
+These are just blank textboxes for you to paste stuff into. The code doesn't do anything with them.
+
+-- Config options --
+
+You can modify the contents of the "rules of play" text file to change what this says.
